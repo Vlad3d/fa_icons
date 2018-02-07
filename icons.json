@@ -1,0 +1,3901 @@
+[{
+    "class": "fa-address-book",
+    "label": "Пример address-book",
+    "category": "new"
+}, {
+    "class": "fa-address-book-o",
+    "label": "Пример address-book-o",
+    "category": "new"
+}, {
+    "class": "fa-address-card",
+    "label": "Пример address-card",
+    "category": "new"
+}, {
+    "class": "fa-address-card-o",
+    "label": "Пример address-card-o",
+    "category": "new"
+}, {
+    "class": "fa-bandcamp",
+    "label": "Пример bandcamp",
+    "category": "new"
+}, {
+    "class": "fa-bath",
+    "label": "Пример bath",
+    "category": "new"
+}, {
+    "class": "fa-bathtub",
+    "label": "Пример bathtub (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-drivers-license",
+    "label": "Пример drivers-license (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-drivers-license-o",
+    "label": "Пример drivers-license-o (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-eercast",
+    "label": "Пример eercast",
+    "category": "new"
+}, {
+    "class": "fa-envelope-open",
+    "label": "Пример envelope-open",
+    "category": "new"
+}, {
+    "class": "fa-envelope-open-o",
+    "label": "Пример envelope-open-o",
+    "category": "new"
+}, {
+    "class": "fa-etsy",
+    "label": "Пример etsy",
+    "category": "new"
+}, {
+    "class": "fa-free-code-camp",
+    "label": "Пример free-code-camp",
+    "category": "new"
+}, {
+    "class": "fa-grav",
+    "label": "Пример grav",
+    "category": "new"
+}, {
+    "class": "fa-handshake-o",
+    "label": "Пример handshake-o",
+    "category": "new"
+}, {
+    "class": "fa-id-badge",
+    "label": "Пример id-badge",
+    "category": "new"
+}, {
+    "class": "fa-id-card",
+    "label": "Пример id-card",
+    "category": "new"
+}, {
+    "class": "fa-id-card-o",
+    "label": "Пример id-card-o",
+    "category": "new"
+}, {
+    "class": "fa-imdb",
+    "label": "Пример imdb",
+    "category": "new"
+}, {
+    "class": "fa-linode",
+    "label": "Пример linode",
+    "category": "new"
+}, {
+    "class": "fa-meetup",
+    "label": "Пример meetup",
+    "category": "new"
+}, {
+    "class": "fa-microchip",
+    "label": "Пример microchip",
+    "category": "new"
+}, {
+    "class": "fa-podcast",
+    "label": "Пример podcast",
+    "category": "new"
+}, {
+    "class": "fa-quora",
+    "label": "Пример quora",
+    "category": "new"
+}, {
+    "class": "fa-ravelry",
+    "label": "Пример ravelry",
+    "category": "new"
+}, {
+    "class": "fa-s15",
+    "label": "Пример s15 (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-shower",
+    "label": "Пример shower",
+    "category": "new"
+}, {
+    "class": "fa-snowflake-o",
+    "label": "Пример snowflake-o",
+    "category": "new"
+}, {
+    "class": "fa-superpowers",
+    "label": "Пример superpowers",
+    "category": "new"
+}, {
+    "class": "fa-telegram",
+    "label": "Пример telegram",
+    "category": "new"
+}, {
+    "class": "fa-thermometer",
+    "label": "Пример thermometer (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-0",
+    "label": "Пример thermometer-0 (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-1",
+    "label": "Пример thermometer-1 (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-2",
+    "label": "Пример thermometer-2 (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-3",
+    "label": "Пример thermometer-3 (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-4",
+    "label": "Пример thermometer-4 (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-empty",
+    "label": "Пример thermometer-empty",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-full",
+    "label": "Пример thermometer-full",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-half",
+    "label": "Пример thermometer-half",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-quarter",
+    "label": "Пример thermometer-quarter",
+    "category": "new"
+}, {
+    "class": "fa-thermometer-three-quarters",
+    "label": "Пример thermometer-three-quarters",
+    "category": "new"
+}, {
+    "class": "fa-times-rectangle",
+    "label": "Пример times-rectangle (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-times-rectangle-o",
+    "label": "Пример times-rectangle-o (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-user-circle",
+    "label": "Пример user-circle",
+    "category": "new"
+}, {
+    "class": "fa-user-circle-o",
+    "label": "Пример user-circle-o",
+    "category": "new"
+}, {
+    "class": "fa-user-o",
+    "label": "Пример user-o",
+    "category": "new"
+}, {
+    "class": "fa-vcard",
+    "label": "Пример vcard (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-vcard-o",
+    "label": "Пример vcard-o (синоним)",
+    "category": "new"
+}, {
+    "class": "fa-window-close",
+    "label": "Пример window-close",
+    "category": "new"
+}, {
+    "class": "fa-window-close-o",
+    "label": "Пример window-close-o",
+    "category": "new"
+}, {
+    "class": "fa-window-maximize",
+    "label": "Пример window-maximize",
+    "category": "new"
+}, {
+    "class": "fa-window-minimize",
+    "label": "Пример window-minimize",
+    "category": "new"
+}, {
+    "class": "fa-window-restore",
+    "label": "Пример window-restore",
+    "category": "new"
+}, {
+    "class": "fa-wpexplorer",
+    "label": "Пример wpexplorer",
+    "category": "new"
+}, {
+    "class": "fa-address-book",
+    "label": "Пример address-book",
+    "category": "web-application"
+}, {
+    "class": "fa-address-book-o",
+    "label": "Пример address-book-o",
+    "category": "web-application"
+}, {
+    "class": "fa-address-card",
+    "label": "Пример address-card",
+    "category": "web-application"
+}, {
+    "class": "fa-address-card-o",
+    "label": "Пример address-card-o",
+    "category": "web-application"
+}, {
+    "class": "fa-adjust",
+    "label": "Пример adjust",
+    "category": "web-application"
+}, {
+    "class": "fa-american-sign-language-interpreting",
+    "label": "Пример american-sign-language-interpreting",
+    "category": "web-application"
+}, {
+    "class": "fa-anchor",
+    "label": "Пример anchor",
+    "category": "web-application"
+}, {
+    "class": "fa-archive",
+    "label": "Пример archive",
+    "category": "web-application"
+}, {
+    "class": "fa-area-chart",
+    "label": "Пример area-chart",
+    "category": "web-application"
+}, {
+    "class": "fa-arrows",
+    "label": "Пример arrows",
+    "category": "web-application"
+}, {
+    "class": "fa-arrows-h",
+    "label": "Пример arrows-h",
+    "category": "web-application"
+}, {
+    "class": "fa-arrows-v",
+    "label": "Пример arrows-v",
+    "category": "web-application"
+}, {
+    "class": "fa-asl-interpreting",
+    "label": "Пример asl-interpreting (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-assistive-listening-systems",
+    "label": "Пример assistive-listening-systems",
+    "category": "web-application"
+}, {
+    "class": "fa-asterisk",
+    "label": "Пример asterisk",
+    "category": "web-application"
+}, {
+    "class": "fa-at",
+    "label": "Пример at",
+    "category": "web-application"
+}, {
+    "class": "fa-audio-description",
+    "label": "Пример audio-description",
+    "category": "web-application"
+}, {
+    "class": "fa-automobile",
+    "label": "Пример automobile (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-balance-scale",
+    "label": "Пример balance-scale",
+    "category": "web-application"
+}, {
+    "class": "fa-ban",
+    "label": "Пример ban",
+    "category": "web-application"
+}, {
+    "class": "fa-bank",
+    "label": "Пример bank (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-bar-chart",
+    "label": "Пример bar-chart",
+    "category": "web-application"
+}, {
+    "class": "fa-bar-chart-o",
+    "label": "Пример bar-chart-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-barcode",
+    "label": "Пример barcode",
+    "category": "web-application"
+}, {
+    "class": "fa-bars",
+    "label": "Пример bars",
+    "category": "web-application"
+}, {
+    "class": "fa-bath",
+    "label": "Пример bath",
+    "category": "web-application"
+}, {
+    "class": "fa-bathtub",
+    "label": "Пример bathtub (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-battery",
+    "label": "Пример battery (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-0",
+    "label": "Пример battery-0 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-1",
+    "label": "Пример battery-1 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-2",
+    "label": "Пример battery-2 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-3",
+    "label": "Пример battery-3 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-4",
+    "label": "Пример battery-4 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-empty",
+    "label": "Пример battery-empty",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-full",
+    "label": "Пример battery-full",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-half",
+    "label": "Пример battery-half",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-quarter",
+    "label": "Пример battery-quarter",
+    "category": "web-application"
+}, {
+    "class": "fa-battery-three-quarters",
+    "label": "Пример battery-three-quarters",
+    "category": "web-application"
+}, {
+    "class": "fa-bed",
+    "label": "Пример bed",
+    "category": "web-application"
+}, {
+    "class": "fa-beer",
+    "label": "Пример beer",
+    "category": "web-application"
+}, {
+    "class": "fa-bell",
+    "label": "Пример bell",
+    "category": "web-application"
+}, {
+    "class": "fa-bell-o",
+    "label": "Пример bell-o",
+    "category": "web-application"
+}, {
+    "class": "fa-bell-slash",
+    "label": "Пример bell-slash",
+    "category": "web-application"
+}, {
+    "class": "fa-bell-slash-o",
+    "label": "Пример bell-slash-o",
+    "category": "web-application"
+}, {
+    "class": "fa-bicycle",
+    "label": "Пример bicycle",
+    "category": "web-application"
+}, {
+    "class": "fa-binoculars",
+    "label": "Пример binoculars",
+    "category": "web-application"
+}, {
+    "class": "fa-birthday-cake",
+    "label": "Пример birthday-cake",
+    "category": "web-application"
+}, {
+    "class": "fa-blind",
+    "label": "Пример blind",
+    "category": "web-application"
+}, {
+    "class": "fa-bluetooth",
+    "label": "Пример bluetooth",
+    "category": "web-application"
+}, {
+    "class": "fa-bluetooth-b",
+    "label": "Пример bluetooth-b",
+    "category": "web-application"
+}, {
+    "class": "fa-bolt",
+    "label": "Пример bolt",
+    "category": "web-application"
+}, {
+    "class": "fa-bomb",
+    "label": "Пример bomb",
+    "category": "web-application"
+}, {
+    "class": "fa-book",
+    "label": "Пример book",
+    "category": "web-application"
+}, {
+    "class": "fa-bookmark",
+    "label": "Пример bookmark",
+    "category": "web-application"
+}, {
+    "class": "fa-bookmark-o",
+    "label": "Пример bookmark-o",
+    "category": "web-application"
+}, {
+    "class": "fa-braille",
+    "label": "Пример braille",
+    "category": "web-application"
+}, {
+    "class": "fa-briefcase",
+    "label": "Пример briefcase",
+    "category": "web-application"
+}, {
+    "class": "fa-bug",
+    "label": "Пример bug",
+    "category": "web-application"
+}, {
+    "class": "fa-building",
+    "label": "Пример building",
+    "category": "web-application"
+}, {
+    "class": "fa-building-o",
+    "label": "Пример building-o",
+    "category": "web-application"
+}, {
+    "class": "fa-bullhorn",
+    "label": "Пример bullhorn",
+    "category": "web-application"
+}, {
+    "class": "fa-bullseye",
+    "label": "Пример bullseye",
+    "category": "web-application"
+}, {
+    "class": "fa-bus",
+    "label": "Пример bus",
+    "category": "web-application"
+}, {
+    "class": "fa-cab",
+    "label": "Пример cab (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-calculator",
+    "label": "Пример calculator",
+    "category": "web-application"
+}, {
+    "class": "fa-calendar",
+    "label": "Пример calendar",
+    "category": "web-application"
+}, {
+    "class": "fa-calendar-check-o",
+    "label": "Пример calendar-check-o",
+    "category": "web-application"
+}, {
+    "class": "fa-calendar-minus-o",
+    "label": "Пример calendar-minus-o",
+    "category": "web-application"
+}, {
+    "class": "fa-calendar-o",
+    "label": "Пример calendar-o",
+    "category": "web-application"
+}, {
+    "class": "fa-calendar-plus-o",
+    "label": "Пример calendar-plus-o",
+    "category": "web-application"
+}, {
+    "class": "fa-calendar-times-o",
+    "label": "Пример calendar-times-o",
+    "category": "web-application"
+}, {
+    "class": "fa-camera",
+    "label": "Пример camera",
+    "category": "web-application"
+}, {
+    "class": "fa-camera-retro",
+    "label": "Пример camera-retro",
+    "category": "web-application"
+}, {
+    "class": "fa-car",
+    "label": "Пример car",
+    "category": "web-application"
+}, {
+    "class": "fa-caret-square-o-down",
+    "label": "Пример caret-square-o-down",
+    "category": "web-application"
+}, {
+    "class": "fa-caret-square-o-left",
+    "label": "Пример caret-square-o-left",
+    "category": "web-application"
+}, {
+    "class": "fa-caret-square-o-right",
+    "label": "Пример caret-square-o-right",
+    "category": "web-application"
+}, {
+    "class": "fa-caret-square-o-up",
+    "label": "Пример caret-square-o-up",
+    "category": "web-application"
+}, {
+    "class": "fa-cart-arrow-down",
+    "label": "Пример cart-arrow-down",
+    "category": "web-application"
+}, {
+    "class": "fa-cart-plus",
+    "label": "Пример cart-plus",
+    "category": "web-application"
+}, {
+    "class": "fa-cc",
+    "label": "Пример cc",
+    "category": "web-application"
+}, {
+    "class": "fa-certificate",
+    "label": "Пример certificate",
+    "category": "web-application"
+}, {
+    "class": "fa-check",
+    "label": "Пример check",
+    "category": "web-application"
+}, {
+    "class": "fa-check-circle",
+    "label": "Пример check-circle",
+    "category": "web-application"
+}, {
+    "class": "fa-check-circle-o",
+    "label": "Пример check-circle-o",
+    "category": "web-application"
+}, {
+    "class": "fa-check-square",
+    "label": "Пример check-square",
+    "category": "web-application"
+}, {
+    "class": "fa-check-square-o",
+    "label": "Пример check-square-o",
+    "category": "web-application"
+}, {
+    "class": "fa-child",
+    "label": "Пример child",
+    "category": "web-application"
+}, {
+    "class": "fa-circle",
+    "label": "Пример circle",
+    "category": "web-application"
+}, {
+    "class": "fa-circle-o",
+    "label": "Пример circle-o",
+    "category": "web-application"
+}, {
+    "class": "fa-circle-o-notch",
+    "label": "Пример circle-o-notch",
+    "category": "web-application"
+}, {
+    "class": "fa-circle-thin",
+    "label": "Пример circle-thin",
+    "category": "web-application"
+}, {
+    "class": "fa-clock-o",
+    "label": "Пример clock-o",
+    "category": "web-application"
+}, {
+    "class": "fa-clone",
+    "label": "Пример clone",
+    "category": "web-application"
+}, {
+    "class": "fa-close",
+    "label": "Пример close (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-cloud",
+    "label": "Пример cloud",
+    "category": "web-application"
+}, {
+    "class": "fa-cloud-download",
+    "label": "Пример cloud-download",
+    "category": "web-application"
+}, {
+    "class": "fa-cloud-upload",
+    "label": "Пример cloud-upload",
+    "category": "web-application"
+}, {
+    "class": "fa-code",
+    "label": "Пример code",
+    "category": "web-application"
+}, {
+    "class": "fa-code-fork",
+    "label": "Пример code-fork",
+    "category": "web-application"
+}, {
+    "class": "fa-coffee",
+    "label": "Пример coffee",
+    "category": "web-application"
+}, {
+    "class": "fa-cog",
+    "label": "Пример cog",
+    "category": "web-application"
+}, {
+    "class": "fa-cogs",
+    "label": "Пример cogs",
+    "category": "web-application"
+}, {
+    "class": "fa-comment",
+    "label": "Пример comment",
+    "category": "web-application"
+}, {
+    "class": "fa-comment-o",
+    "label": "Пример comment-o",
+    "category": "web-application"
+}, {
+    "class": "fa-commenting",
+    "label": "Пример commenting",
+    "category": "web-application"
+}, {
+    "class": "fa-commenting-o",
+    "label": "Пример commenting-o",
+    "category": "web-application"
+}, {
+    "class": "fa-comments",
+    "label": "Пример comments",
+    "category": "web-application"
+}, {
+    "class": "fa-comments-o",
+    "label": "Пример comments-o",
+    "category": "web-application"
+}, {
+    "class": "fa-compass",
+    "label": "Пример compass",
+    "category": "web-application"
+}, {
+    "class": "fa-copyright",
+    "label": "Пример copyright",
+    "category": "web-application"
+}, {
+    "class": "fa-creative-commons",
+    "label": "Пример creative-commons",
+    "category": "web-application"
+}, {
+    "class": "fa-credit-card",
+    "label": "Пример credit-card",
+    "category": "web-application"
+}, {
+    "class": "fa-credit-card-alt",
+    "label": "Пример credit-card-alt",
+    "category": "web-application"
+}, {
+    "class": "fa-crop",
+    "label": "Пример crop",
+    "category": "web-application"
+}, {
+    "class": "fa-crosshairs",
+    "label": "Пример crosshairs",
+    "category": "web-application"
+}, {
+    "class": "fa-cube",
+    "label": "Пример cube",
+    "category": "web-application"
+}, {
+    "class": "fa-cubes",
+    "label": "Пример cubes",
+    "category": "web-application"
+}, {
+    "class": "fa-cutlery",
+    "label": "Пример cutlery",
+    "category": "web-application"
+}, {
+    "class": "fa-dashboard",
+    "label": "Пример dashboard (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-database",
+    "label": "Пример database",
+    "category": "web-application"
+}, {
+    "class": "fa-deaf",
+    "label": "Пример deaf",
+    "category": "web-application"
+}, {
+    "class": "fa-deafness",
+    "label": "Пример deafness (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-desktop",
+    "label": "Пример desktop",
+    "category": "web-application"
+}, {
+    "class": "fa-diamond",
+    "label": "Пример diamond",
+    "category": "web-application"
+}, {
+    "class": "fa-dot-circle-o",
+    "label": "Пример dot-circle-o",
+    "category": "web-application"
+}, {
+    "class": "fa-download",
+    "label": "Пример download",
+    "category": "web-application"
+}, {
+    "class": "fa-drivers-license",
+    "label": "Пример drivers-license (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-drivers-license-o",
+    "label": "Пример drivers-license-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-edit",
+    "label": "Пример edit (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-ellipsis-h",
+    "label": "Пример ellipsis-h",
+    "category": "web-application"
+}, {
+    "class": "fa-ellipsis-v",
+    "label": "Пример ellipsis-v",
+    "category": "web-application"
+}, {
+    "class": "fa-envelope",
+    "label": "Пример envelope",
+    "category": "web-application"
+}, {
+    "class": "fa-envelope-o",
+    "label": "Пример envelope-o",
+    "category": "web-application"
+}, {
+    "class": "fa-envelope-open",
+    "label": "Пример envelope-open",
+    "category": "web-application"
+}, {
+    "class": "fa-envelope-open-o",
+    "label": "Пример envelope-open-o",
+    "category": "web-application"
+}, {
+    "class": "fa-envelope-square",
+    "label": "Пример envelope-square",
+    "category": "web-application"
+}, {
+    "class": "fa-eraser",
+    "label": "Пример eraser",
+    "category": "web-application"
+}, {
+    "class": "fa-exchange",
+    "label": "Пример exchange",
+    "category": "web-application"
+}, {
+    "class": "fa-exclamation",
+    "label": "Пример exclamation",
+    "category": "web-application"
+}, {
+    "class": "fa-exclamation-circle",
+    "label": "Пример exclamation-circle",
+    "category": "web-application"
+}, {
+    "class": "fa-exclamation-triangle",
+    "label": "Пример exclamation-triangle",
+    "category": "web-application"
+}, {
+    "class": "fa-external-link",
+    "label": "Пример external-link",
+    "category": "web-application"
+}, {
+    "class": "fa-external-link-square",
+    "label": "Пример external-link-square",
+    "category": "web-application"
+}, {
+    "class": "fa-eye",
+    "label": "Пример eye",
+    "category": "web-application"
+}, {
+    "class": "fa-eye-slash",
+    "label": "Пример eye-slash",
+    "category": "web-application"
+}, {
+    "class": "fa-eyedropper",
+    "label": "Пример eyedropper",
+    "category": "web-application"
+}, {
+    "class": "fa-fax",
+    "label": "Пример fax",
+    "category": "web-application"
+}, {
+    "class": "fa-feed",
+    "label": "Пример feed (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-female",
+    "label": "Пример female",
+    "category": "web-application"
+}, {
+    "class": "fa-fighter-jet",
+    "label": "Пример fighter-jet",
+    "category": "web-application"
+}, {
+    "class": "fa-file-archive-o",
+    "label": "Пример file-archive-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-audio-o",
+    "label": "Пример file-audio-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-code-o",
+    "label": "Пример file-code-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-excel-o",
+    "label": "Пример file-excel-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-image-o",
+    "label": "Пример file-image-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-movie-o",
+    "label": "Пример file-movie-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-file-pdf-o",
+    "label": "Пример file-pdf-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-photo-o",
+    "label": "Пример file-photo-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-file-picture-o",
+    "label": "Пример file-picture-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-file-powerpoint-o",
+    "label": "Пример file-powerpoint-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-sound-o",
+    "label": "Пример file-sound-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-file-video-o",
+    "label": "Пример file-video-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-word-o",
+    "label": "Пример file-word-o",
+    "category": "web-application"
+}, {
+    "class": "fa-file-zip-o",
+    "label": "Пример file-zip-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-film",
+    "label": "Пример film",
+    "category": "web-application"
+}, {
+    "class": "fa-filter",
+    "label": "Пример filter",
+    "category": "web-application"
+}, {
+    "class": "fa-fire",
+    "label": "Пример fire",
+    "category": "web-application"
+}, {
+    "class": "fa-fire-extinguisher",
+    "label": "Пример fire-extinguisher",
+    "category": "web-application"
+}, {
+    "class": "fa-flag",
+    "label": "Пример flag",
+    "category": "web-application"
+}, {
+    "class": "fa-flag-checkered",
+    "label": "Пример flag-checkered",
+    "category": "web-application"
+}, {
+    "class": "fa-flag-o",
+    "label": "Пример flag-o",
+    "category": "web-application"
+}, {
+    "class": "fa-flash",
+    "label": "Пример flash (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-flask",
+    "label": "Пример flask",
+    "category": "web-application"
+}, {
+    "class": "fa-folder",
+    "label": "Пример folder",
+    "category": "web-application"
+}, {
+    "class": "fa-folder-o",
+    "label": "Пример folder-o",
+    "category": "web-application"
+}, {
+    "class": "fa-folder-open",
+    "label": "Пример folder-open",
+    "category": "web-application"
+}, {
+    "class": "fa-folder-open-o",
+    "label": "Пример folder-open-o",
+    "category": "web-application"
+}, {
+    "class": "fa-frown-o",
+    "label": "Пример frown-o",
+    "category": "web-application"
+}, {
+    "class": "fa-futbol-o",
+    "label": "Пример futbol-o",
+    "category": "web-application"
+}, {
+    "class": "fa-gamepad",
+    "label": "Пример gamepad",
+    "category": "web-application"
+}, {
+    "class": "fa-gavel",
+    "label": "Пример gavel",
+    "category": "web-application"
+}, {
+    "class": "fa-gear",
+    "label": "Пример gear (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-gears",
+    "label": "Пример gears (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-gift",
+    "label": "Пример gift",
+    "category": "web-application"
+}, {
+    "class": "fa-glass",
+    "label": "Пример glass",
+    "category": "web-application"
+}, {
+    "class": "fa-globe",
+    "label": "Пример globe",
+    "category": "web-application"
+}, {
+    "class": "fa-graduation-cap",
+    "label": "Пример graduation-cap",
+    "category": "web-application"
+}, {
+    "class": "fa-group",
+    "label": "Пример group (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-grab-o",
+    "label": "Пример hand-grab-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-lizard-o",
+    "label": "Пример hand-lizard-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-paper-o",
+    "label": "Пример hand-paper-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-peace-o",
+    "label": "Пример hand-peace-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-pointer-o",
+    "label": "Пример hand-pointer-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-rock-o",
+    "label": "Пример hand-rock-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-scissors-o",
+    "label": "Пример hand-scissors-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-spock-o",
+    "label": "Пример hand-spock-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hand-stop-o",
+    "label": "Пример hand-stop-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-handshake-o",
+    "label": "Пример handshake-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hard-of-hearing",
+    "label": "Пример hard-of-hearing (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-hashtag",
+    "label": "Пример hashtag",
+    "category": "web-application"
+}, {
+    "class": "fa-hdd-o",
+    "label": "Пример hdd-o",
+    "category": "web-application"
+}, {
+    "class": "fa-headphones",
+    "label": "Пример headphones",
+    "category": "web-application"
+}, {
+    "class": "fa-heart",
+    "label": "Пример heart",
+    "category": "web-application"
+}, {
+    "class": "fa-heart-o",
+    "label": "Пример heart-o",
+    "category": "web-application"
+}, {
+    "class": "fa-heartbeat",
+    "label": "Пример heartbeat",
+    "category": "web-application"
+}, {
+    "class": "fa-history",
+    "label": "Пример history",
+    "category": "web-application"
+}, {
+    "class": "fa-home",
+    "label": "Пример home",
+    "category": "web-application"
+}, {
+    "class": "fa-hotel",
+    "label": "Пример hotel (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-hourglass",
+    "label": "Пример hourglass",
+    "category": "web-application"
+}, {
+    "class": "fa-hourglass-1",
+    "label": "Пример hourglass-1 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-hourglass-2",
+    "label": "Пример hourglass-2 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-hourglass-3",
+    "label": "Пример hourglass-3 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-hourglass-end",
+    "label": "Пример hourglass-end",
+    "category": "web-application"
+}, {
+    "class": "fa-hourglass-half",
+    "label": "Пример hourglass-half",
+    "category": "web-application"
+}, {
+    "class": "fa-hourglass-o",
+    "label": "Пример hourglass-o",
+    "category": "web-application"
+}, {
+    "class": "fa-hourglass-start",
+    "label": "Пример hourglass-start",
+    "category": "web-application"
+}, {
+    "class": "fa-i-cursor",
+    "label": "Пример i-cursor",
+    "category": "web-application"
+}, {
+    "class": "fa-id-badge",
+    "label": "Пример id-badge",
+    "category": "web-application"
+}, {
+    "class": "fa-id-card",
+    "label": "Пример id-card",
+    "category": "web-application"
+}, {
+    "class": "fa-id-card-o",
+    "label": "Пример id-card-o",
+    "category": "web-application"
+}, {
+    "class": "fa-image",
+    "label": "Пример image (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-inbox",
+    "label": "Пример inbox",
+    "category": "web-application"
+}, {
+    "class": "fa-industry",
+    "label": "Пример industry",
+    "category": "web-application"
+}, {
+    "class": "fa-info",
+    "label": "Пример info",
+    "category": "web-application"
+}, {
+    "class": "fa-info-circle",
+    "label": "Пример info-circle",
+    "category": "web-application"
+}, {
+    "class": "fa-institution",
+    "label": "Пример institution (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-key",
+    "label": "Пример key",
+    "category": "web-application"
+}, {
+    "class": "fa-keyboard-o",
+    "label": "Пример keyboard-o",
+    "category": "web-application"
+}, {
+    "class": "fa-language",
+    "label": "Пример language",
+    "category": "web-application"
+}, {
+    "class": "fa-laptop",
+    "label": "Пример laptop",
+    "category": "web-application"
+}, {
+    "class": "fa-leaf",
+    "label": "Пример leaf",
+    "category": "web-application"
+}, {
+    "class": "fa-legal",
+    "label": "Пример legal (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-lemon-o",
+    "label": "Пример lemon-o",
+    "category": "web-application"
+}, {
+    "class": "fa-level-down",
+    "label": "Пример level-down",
+    "category": "web-application"
+}, {
+    "class": "fa-level-up",
+    "label": "Пример level-up",
+    "category": "web-application"
+}, {
+    "class": "fa-life-bouy",
+    "label": "Пример life-bouy (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-life-buoy",
+    "label": "Пример life-buoy (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-life-ring",
+    "label": "Пример life-ring",
+    "category": "web-application"
+}, {
+    "class": "fa-life-saver",
+    "label": "Пример life-saver (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-lightbulb-o",
+    "label": "Пример lightbulb-o",
+    "category": "web-application"
+}, {
+    "class": "fa-line-chart",
+    "label": "Пример line-chart",
+    "category": "web-application"
+}, {
+    "class": "fa-location-arrow",
+    "label": "Пример location-arrow",
+    "category": "web-application"
+}, {
+    "class": "fa-lock",
+    "label": "Пример lock",
+    "category": "web-application"
+}, {
+    "class": "fa-low-vision",
+    "label": "Пример low-vision",
+    "category": "web-application"
+}, {
+    "class": "fa-magic",
+    "label": "Пример magic",
+    "category": "web-application"
+}, {
+    "class": "fa-magnet",
+    "label": "Пример magnet",
+    "category": "web-application"
+}, {
+    "class": "fa-mail-forward",
+    "label": "Пример mail-forward (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-mail-reply",
+    "label": "Пример mail-reply (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-mail-reply-all",
+    "label": "Пример mail-reply-all (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-male",
+    "label": "Пример male",
+    "category": "web-application"
+}, {
+    "class": "fa-map",
+    "label": "Пример map",
+    "category": "web-application"
+}, {
+    "class": "fa-map-marker",
+    "label": "Пример map-marker",
+    "category": "web-application"
+}, {
+    "class": "fa-map-o",
+    "label": "Пример map-o",
+    "category": "web-application"
+}, {
+    "class": "fa-map-pin",
+    "label": "Пример map-pin",
+    "category": "web-application"
+}, {
+    "class": "fa-map-signs",
+    "label": "Пример map-signs",
+    "category": "web-application"
+}, {
+    "class": "fa-meh-o",
+    "label": "Пример meh-o",
+    "category": "web-application"
+}, {
+    "class": "fa-microchip",
+    "label": "Пример microchip",
+    "category": "web-application"
+}, {
+    "class": "fa-microphone",
+    "label": "Пример microphone",
+    "category": "web-application"
+}, {
+    "class": "fa-microphone-slash",
+    "label": "Пример microphone-slash",
+    "category": "web-application"
+}, {
+    "class": "fa-minus",
+    "label": "Пример minus",
+    "category": "web-application"
+}, {
+    "class": "fa-minus-circle",
+    "label": "Пример minus-circle",
+    "category": "web-application"
+}, {
+    "class": "fa-minus-square",
+    "label": "Пример minus-square",
+    "category": "web-application"
+}, {
+    "class": "fa-minus-square-o",
+    "label": "Пример minus-square-o",
+    "category": "web-application"
+}, {
+    "class": "fa-mobile",
+    "label": "Пример mobile",
+    "category": "web-application"
+}, {
+    "class": "fa-mobile-phone",
+    "label": "Пример mobile-phone (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-money",
+    "label": "Пример money",
+    "category": "web-application"
+}, {
+    "class": "fa-moon-o",
+    "label": "Пример moon-o",
+    "category": "web-application"
+}, {
+    "class": "fa-mortar-board",
+    "label": "Пример mortar-board (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-motorcycle",
+    "label": "Пример motorcycle",
+    "category": "web-application"
+}, {
+    "class": "fa-mouse-pointer",
+    "label": "Пример mouse-pointer",
+    "category": "web-application"
+}, {
+    "class": "fa-music",
+    "label": "Пример music",
+    "category": "web-application"
+}, {
+    "class": "fa-navicon",
+    "label": "Пример navicon (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-newspaper-o",
+    "label": "Пример newspaper-o",
+    "category": "web-application"
+}, {
+    "class": "fa-object-group",
+    "label": "Пример object-group",
+    "category": "web-application"
+}, {
+    "class": "fa-object-ungroup",
+    "label": "Пример object-ungroup",
+    "category": "web-application"
+}, {
+    "class": "fa-paint-brush",
+    "label": "Пример paint-brush",
+    "category": "web-application"
+}, {
+    "class": "fa-paper-plane",
+    "label": "Пример paper-plane",
+    "category": "web-application"
+}, {
+    "class": "fa-paper-plane-o",
+    "label": "Пример paper-plane-o",
+    "category": "web-application"
+}, {
+    "class": "fa-paw",
+    "label": "Пример paw",
+    "category": "web-application"
+}, {
+    "class": "fa-pencil",
+    "label": "Пример pencil",
+    "category": "web-application"
+}, {
+    "class": "fa-pencil-square",
+    "label": "Пример pencil-square",
+    "category": "web-application"
+}, {
+    "class": "fa-pencil-square-o",
+    "label": "Пример pencil-square-o",
+    "category": "web-application"
+}, {
+    "class": "fa-percent",
+    "label": "Пример percent",
+    "category": "web-application"
+}, {
+    "class": "fa-phone",
+    "label": "Пример phone",
+    "category": "web-application"
+}, {
+    "class": "fa-phone-square",
+    "label": "Пример phone-square",
+    "category": "web-application"
+}, {
+    "class": "fa-photo",
+    "label": "Пример photo (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-picture-o",
+    "label": "Пример picture-o",
+    "category": "web-application"
+}, {
+    "class": "fa-pie-chart",
+    "label": "Пример pie-chart",
+    "category": "web-application"
+}, {
+    "class": "fa-plane",
+    "label": "Пример plane",
+    "category": "web-application"
+}, {
+    "class": "fa-plug",
+    "label": "Пример plug",
+    "category": "web-application"
+}, {
+    "class": "fa-plus",
+    "label": "Пример plus",
+    "category": "web-application"
+}, {
+    "class": "fa-plus-circle",
+    "label": "Пример plus-circle",
+    "category": "web-application"
+}, {
+    "class": "fa-plus-square",
+    "label": "Пример plus-square",
+    "category": "web-application"
+}, {
+    "class": "fa-plus-square-o",
+    "label": "Пример plus-square-o",
+    "category": "web-application"
+}, {
+    "class": "fa-podcast",
+    "label": "Пример podcast",
+    "category": "web-application"
+}, {
+    "class": "fa-power-off",
+    "label": "Пример power-off",
+    "category": "web-application"
+}, {
+    "class": "fa-print",
+    "label": "Пример print",
+    "category": "web-application"
+}, {
+    "class": "fa-puzzle-piece",
+    "label": "Пример puzzle-piece",
+    "category": "web-application"
+}, {
+    "class": "fa-qrcode",
+    "label": "Пример qrcode",
+    "category": "web-application"
+}, {
+    "class": "fa-question",
+    "label": "Пример question",
+    "category": "web-application"
+}, {
+    "class": "fa-question-circle",
+    "label": "Пример question-circle",
+    "category": "web-application"
+}, {
+    "class": "fa-question-circle-o",
+    "label": "Пример question-circle-o",
+    "category": "web-application"
+}, {
+    "class": "fa-quote-left",
+    "label": "Пример quote-left",
+    "category": "web-application"
+}, {
+    "class": "fa-quote-right",
+    "label": "Пример quote-right",
+    "category": "web-application"
+}, {
+    "class": "fa-random",
+    "label": "Пример random",
+    "category": "web-application"
+}, {
+    "class": "fa-recycle",
+    "label": "Пример recycle",
+    "category": "web-application"
+}, {
+    "class": "fa-refresh",
+    "label": "Пример refresh",
+    "category": "web-application"
+}, {
+    "class": "fa-registered",
+    "label": "Пример registered",
+    "category": "web-application"
+}, {
+    "class": "fa-remove",
+    "label": "Пример remove (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-reorder",
+    "label": "Пример reorder (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-reply",
+    "label": "Пример reply",
+    "category": "web-application"
+}, {
+    "class": "fa-reply-all",
+    "label": "Пример reply-all",
+    "category": "web-application"
+}, {
+    "class": "fa-retweet",
+    "label": "Пример retweet",
+    "category": "web-application"
+}, {
+    "class": "fa-road",
+    "label": "Пример road",
+    "category": "web-application"
+}, {
+    "class": "fa-rocket",
+    "label": "Пример rocket",
+    "category": "web-application"
+}, {
+    "class": "fa-rss",
+    "label": "Пример rss",
+    "category": "web-application"
+}, {
+    "class": "fa-rss-square",
+    "label": "Пример rss-square",
+    "category": "web-application"
+}, {
+    "class": "fa-s15",
+    "label": "Пример s15 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-search",
+    "label": "Пример search",
+    "category": "web-application"
+}, {
+    "class": "fa-search-minus",
+    "label": "Пример search-minus",
+    "category": "web-application"
+}, {
+    "class": "fa-search-plus",
+    "label": "Пример search-plus",
+    "category": "web-application"
+}, {
+    "class": "fa-send",
+    "label": "Пример send (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-send-o",
+    "label": "Пример send-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-server",
+    "label": "Пример server",
+    "category": "web-application"
+}, {
+    "class": "fa-share",
+    "label": "Пример share",
+    "category": "web-application"
+}, {
+    "class": "fa-share-alt",
+    "label": "Пример share-alt",
+    "category": "web-application"
+}, {
+    "class": "fa-share-alt-square",
+    "label": "Пример share-alt-square",
+    "category": "web-application"
+}, {
+    "class": "fa-share-square",
+    "label": "Пример share-square",
+    "category": "web-application"
+}, {
+    "class": "fa-share-square-o",
+    "label": "Пример share-square-o",
+    "category": "web-application"
+}, {
+    "class": "fa-shield",
+    "label": "Пример shield",
+    "category": "web-application"
+}, {
+    "class": "fa-ship",
+    "label": "Пример ship",
+    "category": "web-application"
+}, {
+    "class": "fa-shopping-bag",
+    "label": "Пример shopping-bag",
+    "category": "web-application"
+}, {
+    "class": "fa-shopping-basket",
+    "label": "Пример shopping-basket",
+    "category": "web-application"
+}, {
+    "class": "fa-shopping-cart",
+    "label": "Пример shopping-cart",
+    "category": "web-application"
+}, {
+    "class": "fa-shower",
+    "label": "Пример shower",
+    "category": "web-application"
+}, {
+    "class": "fa-sign-in",
+    "label": "Пример sign-in",
+    "category": "web-application"
+}, {
+    "class": "fa-sign-language",
+    "label": "Пример sign-language",
+    "category": "web-application"
+}, {
+    "class": "fa-sign-out",
+    "label": "Пример sign-out",
+    "category": "web-application"
+}, {
+    "class": "fa-signal",
+    "label": "Пример signal",
+    "category": "web-application"
+}, {
+    "class": "fa-signing",
+    "label": "Пример signing (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-sitemap",
+    "label": "Пример sitemap",
+    "category": "web-application"
+}, {
+    "class": "fa-sliders",
+    "label": "Пример sliders",
+    "category": "web-application"
+}, {
+    "class": "fa-smile-o",
+    "label": "Пример smile-o",
+    "category": "web-application"
+}, {
+    "class": "fa-snowflake-o",
+    "label": "Пример snowflake-o",
+    "category": "web-application"
+}, {
+    "class": "fa-soccer-ball-o",
+    "label": "Пример soccer-ball-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-sort",
+    "label": "Пример sort",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-alpha-asc",
+    "label": "Пример sort-alpha-asc",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-alpha-desc",
+    "label": "Пример sort-alpha-desc",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-amount-asc",
+    "label": "Пример sort-amount-asc",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-amount-desc",
+    "label": "Пример sort-amount-desc",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-asc",
+    "label": "Пример sort-asc",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-desc",
+    "label": "Пример sort-desc",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-down",
+    "label": "Пример sort-down (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-numeric-asc",
+    "label": "Пример sort-numeric-asc",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-numeric-desc",
+    "label": "Пример sort-numeric-desc",
+    "category": "web-application"
+}, {
+    "class": "fa-sort-up",
+    "label": "Пример sort-up (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-space-shuttle",
+    "label": "Пример space-shuttle",
+    "category": "web-application"
+}, {
+    "class": "fa-spinner",
+    "label": "Пример spinner",
+    "category": "web-application"
+}, {
+    "class": "fa-spoon",
+    "label": "Пример spoon",
+    "category": "web-application"
+}, {
+    "class": "fa-square",
+    "label": "Пример square",
+    "category": "web-application"
+}, {
+    "class": "fa-square-o",
+    "label": "Пример square-o",
+    "category": "web-application"
+}, {
+    "class": "fa-star",
+    "label": "Пример star",
+    "category": "web-application"
+}, {
+    "class": "fa-star-half",
+    "label": "Пример star-half",
+    "category": "web-application"
+}, {
+    "class": "fa-star-half-empty",
+    "label": "Пример star-half-empty (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-star-half-full",
+    "label": "Пример star-half-full (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-star-half-o",
+    "label": "Пример star-half-o",
+    "category": "web-application"
+}, {
+    "class": "fa-star-o",
+    "label": "Пример star-o",
+    "category": "web-application"
+}, {
+    "class": "fa-sticky-note",
+    "label": "Пример sticky-note",
+    "category": "web-application"
+}, {
+    "class": "fa-sticky-note-o",
+    "label": "Пример sticky-note-o",
+    "category": "web-application"
+}, {
+    "class": "fa-street-view",
+    "label": "Пример street-view",
+    "category": "web-application"
+}, {
+    "class": "fa-suitcase",
+    "label": "Пример suitcase",
+    "category": "web-application"
+}, {
+    "class": "fa-sun-o",
+    "label": "Пример sun-o",
+    "category": "web-application"
+}, {
+    "class": "fa-support",
+    "label": "Пример support (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-tablet",
+    "label": "Пример tablet",
+    "category": "web-application"
+}, {
+    "class": "fa-tachometer",
+    "label": "Пример tachometer",
+    "category": "web-application"
+}, {
+    "class": "fa-tag",
+    "label": "Пример tag",
+    "category": "web-application"
+}, {
+    "class": "fa-tags",
+    "label": "Пример tags",
+    "category": "web-application"
+}, {
+    "class": "fa-tasks",
+    "label": "Пример tasks",
+    "category": "web-application"
+}, {
+    "class": "fa-taxi",
+    "label": "Пример taxi",
+    "category": "web-application"
+}, {
+    "class": "fa-television",
+    "label": "Пример television",
+    "category": "web-application"
+}, {
+    "class": "fa-terminal",
+    "label": "Пример terminal",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer",
+    "label": "Пример thermometer (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-0",
+    "label": "Пример thermometer-0 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-1",
+    "label": "Пример thermometer-1 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-2",
+    "label": "Пример thermometer-2 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-3",
+    "label": "Пример thermometer-3 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-4",
+    "label": "Пример thermometer-4 (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-empty",
+    "label": "Пример thermometer-empty",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-full",
+    "label": "Пример thermometer-full",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-half",
+    "label": "Пример thermometer-half",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-quarter",
+    "label": "Пример thermometer-quarter",
+    "category": "web-application"
+}, {
+    "class": "fa-thermometer-three-quarters",
+    "label": "Пример thermometer-three-quarters",
+    "category": "web-application"
+}, {
+    "class": "fa-thumb-tack",
+    "label": "Пример thumb-tack",
+    "category": "web-application"
+}, {
+    "class": "fa-thumbs-down",
+    "label": "Пример thumbs-down",
+    "category": "web-application"
+}, {
+    "class": "fa-thumbs-o-down",
+    "label": "Пример thumbs-o-down",
+    "category": "web-application"
+}, {
+    "class": "fa-thumbs-o-up",
+    "label": "Пример thumbs-o-up",
+    "category": "web-application"
+}, {
+    "class": "fa-thumbs-up",
+    "label": "Пример thumbs-up",
+    "category": "web-application"
+}, {
+    "class": "fa-ticket",
+    "label": "Пример ticket",
+    "category": "web-application"
+}, {
+    "class": "fa-times",
+    "label": "Пример times",
+    "category": "web-application"
+}, {
+    "class": "fa-times-circle",
+    "label": "Пример times-circle",
+    "category": "web-application"
+}, {
+    "class": "fa-times-circle-o",
+    "label": "Пример times-circle-o",
+    "category": "web-application"
+}, {
+    "class": "fa-times-rectangle",
+    "label": "Пример times-rectangle (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-times-rectangle-o",
+    "label": "Пример times-rectangle-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-tint",
+    "label": "Пример tint",
+    "category": "web-application"
+}, {
+    "class": "fa-toggle-down",
+    "label": "Пример toggle-down (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-toggle-left",
+    "label": "Пример toggle-left (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-toggle-off",
+    "label": "Пример toggle-off",
+    "category": "web-application"
+}, {
+    "class": "fa-toggle-on",
+    "label": "Пример toggle-on",
+    "category": "web-application"
+}, {
+    "class": "fa-toggle-right",
+    "label": "Пример toggle-right (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-toggle-up",
+    "label": "Пример toggle-up (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-trademark",
+    "label": "Пример trademark",
+    "category": "web-application"
+}, {
+    "class": "fa-trash",
+    "label": "Пример trash",
+    "category": "web-application"
+}, {
+    "class": "fa-trash-o",
+    "label": "Пример trash-o",
+    "category": "web-application"
+}, {
+    "class": "fa-tree",
+    "label": "Пример tree",
+    "category": "web-application"
+}, {
+    "class": "fa-trophy",
+    "label": "Пример trophy",
+    "category": "web-application"
+}, {
+    "class": "fa-truck",
+    "label": "Пример truck",
+    "category": "web-application"
+}, {
+    "class": "fa-tty",
+    "label": "Пример tty",
+    "category": "web-application"
+}, {
+    "class": "fa-tv",
+    "label": "Пример tv (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-umbrella",
+    "label": "Пример umbrella",
+    "category": "web-application"
+}, {
+    "class": "fa-universal-access",
+    "label": "Пример universal-access",
+    "category": "web-application"
+}, {
+    "class": "fa-university",
+    "label": "Пример university",
+    "category": "web-application"
+}, {
+    "class": "fa-unlock",
+    "label": "Пример unlock",
+    "category": "web-application"
+}, {
+    "class": "fa-unlock-alt",
+    "label": "Пример unlock-alt",
+    "category": "web-application"
+}, {
+    "class": "fa-unsorted",
+    "label": "Пример unsorted (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-upload",
+    "label": "Пример upload",
+    "category": "web-application"
+}, {
+    "class": "fa-user",
+    "label": "Пример user",
+    "category": "web-application"
+}, {
+    "class": "fa-user-circle",
+    "label": "Пример user-circle",
+    "category": "web-application"
+}, {
+    "class": "fa-user-circle-o",
+    "label": "Пример user-circle-o",
+    "category": "web-application"
+}, {
+    "class": "fa-user-o",
+    "label": "Пример user-o",
+    "category": "web-application"
+}, {
+    "class": "fa-user-plus",
+    "label": "Пример user-plus",
+    "category": "web-application"
+}, {
+    "class": "fa-user-secret",
+    "label": "Пример user-secret",
+    "category": "web-application"
+}, {
+    "class": "fa-user-times",
+    "label": "Пример user-times",
+    "category": "web-application"
+}, {
+    "class": "fa-users",
+    "label": "Пример users",
+    "category": "web-application"
+}, {
+    "class": "fa-vcard",
+    "label": "Пример vcard (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-vcard-o",
+    "label": "Пример vcard-o (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-video-camera",
+    "label": "Пример video-camera",
+    "category": "web-application"
+}, {
+    "class": "fa-volume-control-phone",
+    "label": "Пример volume-control-phone",
+    "category": "web-application"
+}, {
+    "class": "fa-volume-down",
+    "label": "Пример volume-down",
+    "category": "web-application"
+}, {
+    "class": "fa-volume-off",
+    "label": "Пример volume-off",
+    "category": "web-application"
+}, {
+    "class": "fa-volume-up",
+    "label": "Пример volume-up",
+    "category": "web-application"
+}, {
+    "class": "fa-warning",
+    "label": "Пример warning (синоним)",
+    "category": "web-application"
+}, {
+    "class": "fa-wheelchair",
+    "label": "Пример wheelchair",
+    "category": "web-application"
+}, {
+    "class": "fa-wheelchair-alt",
+    "label": "Пример wheelchair-alt",
+    "category": "web-application"
+}, {
+    "class": "fa-wifi",
+    "label": "Пример wifi",
+    "category": "web-application"
+}, {
+    "class": "fa-window-close",
+    "label": "Пример window-close",
+    "category": "web-application"
+}, {
+    "class": "fa-window-close-o",
+    "label": "Пример window-close-o",
+    "category": "web-application"
+}, {
+    "class": "fa-window-maximize",
+    "label": "Пример window-maximize",
+    "category": "web-application"
+}, {
+    "class": "fa-window-minimize",
+    "label": "Пример window-minimize",
+    "category": "web-application"
+}, {
+    "class": "fa-window-restore",
+    "label": "Пример window-restore",
+    "category": "web-application"
+}, {
+    "class": "fa-wrench",
+    "label": "Пример wrench",
+    "category": "web-application"
+}, {
+    "class": "fa-american-sign-language-interpreting",
+    "label": "Пример american-sign-language-interpreting",
+    "category": "accessibility"
+}, {
+    "class": "fa-asl-interpreting",
+    "label": "Пример asl-interpreting (синоним)",
+    "category": "accessibility"
+}, {
+    "class": "fa-assistive-listening-systems",
+    "label": "Пример assistive-listening-systems",
+    "category": "accessibility"
+}, {
+    "class": "fa-audio-description",
+    "label": "Пример audio-description",
+    "category": "accessibility"
+}, {
+    "class": "fa-blind",
+    "label": "Пример blind",
+    "category": "accessibility"
+}, {
+    "class": "fa-braille",
+    "label": "Пример braille",
+    "category": "accessibility"
+}, {
+    "class": "fa-cc",
+    "label": "Пример cc",
+    "category": "accessibility"
+}, {
+    "class": "fa-deaf",
+    "label": "Пример deaf",
+    "category": "accessibility"
+}, {
+    "class": "fa-deafness",
+    "label": "Пример deafness (синоним)",
+    "category": "accessibility"
+}, {
+    "class": "fa-hard-of-hearing",
+    "label": "Пример hard-of-hearing (синоним)",
+    "category": "accessibility"
+}, {
+    "class": "fa-low-vision",
+    "label": "Пример low-vision",
+    "category": "accessibility"
+}, {
+    "class": "fa-question-circle-o",
+    "label": "Пример question-circle-o",
+    "category": "accessibility"
+}, {
+    "class": "fa-sign-language",
+    "label": "Пример sign-language",
+    "category": "accessibility"
+}, {
+    "class": "fa-signing",
+    "label": "Пример signing (синоним)",
+    "category": "accessibility"
+}, {
+    "class": "fa-tty",
+    "label": "Пример tty",
+    "category": "accessibility"
+}, {
+    "class": "fa-universal-access",
+    "label": "Пример universal-access",
+    "category": "accessibility"
+}, {
+    "class": "fa-volume-control-phone",
+    "label": "Пример volume-control-phone",
+    "category": "accessibility"
+}, {
+    "class": "fa-wheelchair",
+    "label": "Пример wheelchair",
+    "category": "accessibility"
+}, {
+    "class": "fa-wheelchair-alt",
+    "label": "Пример wheelchair-alt",
+    "category": "accessibility"
+}, {
+    "class": "fa-hand-grab-o",
+    "label": "Пример hand-grab-o (синоним)",
+    "category": "hand"
+}, {
+    "class": "fa-hand-lizard-o",
+    "label": "Пример hand-lizard-o",
+    "category": "hand"
+}, {
+    "class": "fa-hand-o-down",
+    "label": "Пример hand-o-down",
+    "category": "hand"
+}, {
+    "class": "fa-hand-o-left",
+    "label": "Пример hand-o-left",
+    "category": "hand"
+}, {
+    "class": "fa-hand-o-right",
+    "label": "Пример hand-o-right",
+    "category": "hand"
+}, {
+    "class": "fa-hand-o-up",
+    "label": "Пример hand-o-up",
+    "category": "hand"
+}, {
+    "class": "fa-hand-paper-o",
+    "label": "Пример hand-paper-o",
+    "category": "hand"
+}, {
+    "class": "fa-hand-peace-o",
+    "label": "Пример hand-peace-o",
+    "category": "hand"
+}, {
+    "class": "fa-hand-pointer-o",
+    "label": "Пример hand-pointer-o",
+    "category": "hand"
+}, {
+    "class": "fa-hand-rock-o",
+    "label": "Пример hand-rock-o",
+    "category": "hand"
+}, {
+    "class": "fa-hand-scissors-o",
+    "label": "Пример hand-scissors-o",
+    "category": "hand"
+}, {
+    "class": "fa-hand-spock-o",
+    "label": "Пример hand-spock-o",
+    "category": "hand"
+}, {
+    "class": "fa-hand-stop-o",
+    "label": "Пример hand-stop-o (синоним)",
+    "category": "hand"
+}, {
+    "class": "fa-thumbs-down",
+    "label": "Пример thumbs-down",
+    "category": "hand"
+}, {
+    "class": "fa-thumbs-o-down",
+    "label": "Пример thumbs-o-down",
+    "category": "hand"
+}, {
+    "class": "fa-thumbs-o-up",
+    "label": "Пример thumbs-o-up",
+    "category": "hand"
+}, {
+    "class": "fa-thumbs-up",
+    "label": "Пример thumbs-up",
+    "category": "hand"
+}, {
+    "class": "fa-ambulance",
+    "label": "Пример ambulance",
+    "category": "transportation"
+}, {
+    "class": "fa-automobile",
+    "label": "Пример automobile (синоним)",
+    "category": "transportation"
+}, {
+    "class": "fa-bicycle",
+    "label": "Пример bicycle",
+    "category": "transportation"
+}, {
+    "class": "fa-bus",
+    "label": "Пример bus",
+    "category": "transportation"
+}, {
+    "class": "fa-cab",
+    "label": "Пример cab (синоним)",
+    "category": "transportation"
+}, {
+    "class": "fa-car",
+    "label": "Пример car",
+    "category": "transportation"
+}, {
+    "class": "fa-fighter-jet",
+    "label": "Пример fighter-jet",
+    "category": "transportation"
+}, {
+    "class": "fa-motorcycle",
+    "label": "Пример motorcycle",
+    "category": "transportation"
+}, {
+    "class": "fa-plane",
+    "label": "Пример plane",
+    "category": "transportation"
+}, {
+    "class": "fa-rocket",
+    "label": "Пример rocket",
+    "category": "transportation"
+}, {
+    "class": "fa-ship",
+    "label": "Пример ship",
+    "category": "transportation"
+}, {
+    "class": "fa-space-shuttle",
+    "label": "Пример space-shuttle",
+    "category": "transportation"
+}, {
+    "class": "fa-subway",
+    "label": "Пример subway",
+    "category": "transportation"
+}, {
+    "class": "fa-taxi",
+    "label": "Пример taxi",
+    "category": "transportation"
+}, {
+    "class": "fa-train",
+    "label": "Пример train",
+    "category": "transportation"
+}, {
+    "class": "fa-truck",
+    "label": "Пример truck",
+    "category": "transportation"
+}, {
+    "class": "fa-wheelchair",
+    "label": "Пример wheelchair",
+    "category": "transportation"
+}, {
+    "class": "fa-wheelchair-alt",
+    "label": "Пример wheelchair-alt",
+    "category": "transportation"
+}, {
+    "class": "fa-genderless",
+    "label": "Пример genderless",
+    "category": "gender"
+}, {
+    "class": "fa-intersex",
+    "label": "Пример intersex (синоним)",
+    "category": "gender"
+}, {
+    "class": "fa-mars",
+    "label": "Пример mars",
+    "category": "gender"
+}, {
+    "class": "fa-mars-double",
+    "label": "Пример mars-double",
+    "category": "gender"
+}, {
+    "class": "fa-mars-stroke",
+    "label": "Пример mars-stroke",
+    "category": "gender"
+}, {
+    "class": "fa-mars-stroke-h",
+    "label": "Пример mars-stroke-h",
+    "category": "gender"
+}, {
+    "class": "fa-mars-stroke-v",
+    "label": "Пример mars-stroke-v",
+    "category": "gender"
+}, {
+    "class": "fa-mercury",
+    "label": "Пример mercury",
+    "category": "gender"
+}, {
+    "class": "fa-neuter",
+    "label": "Пример neuter",
+    "category": "gender"
+}, {
+    "class": "fa-transgender",
+    "label": "Пример transgender",
+    "category": "gender"
+}, {
+    "class": "fa-transgender-alt",
+    "label": "Пример transgender-alt",
+    "category": "gender"
+}, {
+    "class": "fa-venus",
+    "label": "Пример venus",
+    "category": "gender"
+}, {
+    "class": "fa-venus-double",
+    "label": "Пример venus-double",
+    "category": "gender"
+}, {
+    "class": "fa-venus-mars",
+    "label": "Пример venus-mars",
+    "category": "gender"
+}, {
+    "class": "fa-file",
+    "label": "Пример file",
+    "category": "file-type"
+}, {
+    "class": "fa-file-archive-o",
+    "label": "Пример file-archive-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-audio-o",
+    "label": "Пример file-audio-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-code-o",
+    "label": "Пример file-code-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-excel-o",
+    "label": "Пример file-excel-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-image-o",
+    "label": "Пример file-image-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-movie-o",
+    "label": "Пример file-movie-o (синоним)",
+    "category": "file-type"
+}, {
+    "class": "fa-file-o",
+    "label": "Пример file-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-pdf-o",
+    "label": "Пример file-pdf-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-photo-o",
+    "label": "Пример file-photo-o (синоним)",
+    "category": "file-type"
+}, {
+    "class": "fa-file-picture-o",
+    "label": "Пример file-picture-o (синоним)",
+    "category": "file-type"
+}, {
+    "class": "fa-file-powerpoint-o",
+    "label": "Пример file-powerpoint-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-sound-o",
+    "label": "Пример file-sound-o (синоним)",
+    "category": "file-type"
+}, {
+    "class": "fa-file-text",
+    "label": "Пример file-text",
+    "category": "file-type"
+}, {
+    "class": "fa-file-text-o",
+    "label": "Пример file-text-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-video-o",
+    "label": "Пример file-video-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-word-o",
+    "label": "Пример file-word-o",
+    "category": "file-type"
+}, {
+    "class": "fa-file-zip-o",
+    "label": "Пример file-zip-o (синоним)",
+    "category": "file-type"
+}, {
+    "class": "fa-circle-o-notch",
+    "label": "Пример circle-o-notch",
+    "category": "spinner"
+}, {
+    "class": "fa-cog",
+    "label": "Пример cog",
+    "category": "spinner"
+}, {
+    "class": "fa-gear",
+    "label": "Пример gear (синоним)",
+    "category": "spinner"
+}, {
+    "class": "fa-refresh",
+    "label": "Пример refresh",
+    "category": "spinner"
+}, {
+    "class": "fa-spinner",
+    "label": "Пример spinner",
+    "category": "spinner"
+}, {
+    "class": "fa-check-square",
+    "label": "Пример check-square",
+    "category": "form-control"
+}, {
+    "class": "fa-check-square-o",
+    "label": "Пример check-square-o",
+    "category": "form-control"
+}, {
+    "class": "fa-circle",
+    "label": "Пример circle",
+    "category": "form-control"
+}, {
+    "class": "fa-circle-o",
+    "label": "Пример circle-o",
+    "category": "form-control"
+}, {
+    "class": "fa-dot-circle-o",
+    "label": "Пример dot-circle-o",
+    "category": "form-control"
+}, {
+    "class": "fa-minus-square",
+    "label": "Пример minus-square",
+    "category": "form-control"
+}, {
+    "class": "fa-minus-square-o",
+    "label": "Пример minus-square-o",
+    "category": "form-control"
+}, {
+    "class": "fa-plus-square",
+    "label": "Пример plus-square",
+    "category": "form-control"
+}, {
+    "class": "fa-plus-square-o",
+    "label": "Пример plus-square-o",
+    "category": "form-control"
+}, {
+    "class": "fa-square",
+    "label": "Пример square",
+    "category": "form-control"
+}, {
+    "class": "fa-square-o",
+    "label": "Пример square-o",
+    "category": "form-control"
+}, {
+    "class": "fa-cc-amex",
+    "label": "Пример cc-amex",
+    "category": "payment"
+}, {
+    "class": "fa-cc-diners-club",
+    "label": "Пример cc-diners-club",
+    "category": "payment"
+}, {
+    "class": "fa-cc-discover",
+    "label": "Пример cc-discover",
+    "category": "payment"
+}, {
+    "class": "fa-cc-jcb",
+    "label": "Пример cc-jcb",
+    "category": "payment"
+}, {
+    "class": "fa-cc-mastercard",
+    "label": "Пример cc-mastercard",
+    "category": "payment"
+}, {
+    "class": "fa-cc-paypal",
+    "label": "Пример cc-paypal",
+    "category": "payment"
+}, {
+    "class": "fa-cc-stripe",
+    "label": "Пример cc-stripe",
+    "category": "payment"
+}, {
+    "class": "fa-cc-visa",
+    "label": "Пример cc-visa",
+    "category": "payment"
+}, {
+    "class": "fa-credit-card",
+    "label": "Пример credit-card",
+    "category": "payment"
+}, {
+    "class": "fa-credit-card-alt",
+    "label": "Пример credit-card-alt",
+    "category": "payment"
+}, {
+    "class": "fa-google-wallet",
+    "label": "Пример google-wallet",
+    "category": "payment"
+}, {
+    "class": "fa-paypal",
+    "label": "Пример paypal",
+    "category": "payment"
+}, {
+    "class": "fa-area-chart",
+    "label": "Пример area-chart",
+    "category": "chart"
+}, {
+    "class": "fa-bar-chart",
+    "label": "Пример bar-chart",
+    "category": "chart"
+}, {
+    "class": "fa-bar-chart-o",
+    "label": "Пример bar-chart-o (синоним)",
+    "category": "chart"
+}, {
+    "class": "fa-line-chart",
+    "label": "Пример line-chart",
+    "category": "chart"
+}, {
+    "class": "fa-pie-chart",
+    "label": "Пример pie-chart",
+    "category": "chart"
+}, {
+    "class": "fa-bitcoin",
+    "label": "Пример bitcoin (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-btc",
+    "label": "Пример btc",
+    "category": "currency"
+}, {
+    "class": "fa-cny",
+    "label": "Пример cny (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-dollar",
+    "label": "Пример dollar (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-eur",
+    "label": "Пример eur",
+    "category": "currency"
+}, {
+    "class": "fa-euro",
+    "label": "Пример euro (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-gbp",
+    "label": "Пример gbp",
+    "category": "currency"
+}, {
+    "class": "fa-gg",
+    "label": "Пример gg",
+    "category": "currency"
+}, {
+    "class": "fa-gg-circle",
+    "label": "Пример gg-circle",
+    "category": "currency"
+}, {
+    "class": "fa-ils",
+    "label": "Пример ils",
+    "category": "currency"
+}, {
+    "class": "fa-inr",
+    "label": "Пример inr",
+    "category": "currency"
+}, {
+    "class": "fa-jpy",
+    "label": "Пример jpy",
+    "category": "currency"
+}, {
+    "class": "fa-krw",
+    "label": "Пример krw",
+    "category": "currency"
+}, {
+    "class": "fa-money",
+    "label": "Пример money",
+    "category": "currency"
+}, {
+    "class": "fa-rmb",
+    "label": "Пример rmb (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-rouble",
+    "label": "Пример rouble (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-rub",
+    "label": "Пример rub",
+    "category": "currency"
+}, {
+    "class": "fa-ruble",
+    "label": "Пример ruble (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-rupee",
+    "label": "Пример rupee (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-shekel",
+    "label": "Пример shekel (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-sheqel",
+    "label": "Пример sheqel (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-try",
+    "label": "Пример try",
+    "category": "currency"
+}, {
+    "class": "fa-turkish-lira",
+    "label": "Пример turkish-lira (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-usd",
+    "label": "Пример usd",
+    "category": "currency"
+}, {
+    "class": "fa-won",
+    "label": "Пример won (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-yen",
+    "label": "Пример yen (синоним)",
+    "category": "currency"
+}, {
+    "class": "fa-align-center",
+    "label": "Пример align-center",
+    "category": "text-editor"
+}, {
+    "class": "fa-align-justify",
+    "label": "Пример align-justify",
+    "category": "text-editor"
+}, {
+    "class": "fa-align-left",
+    "label": "Пример align-left",
+    "category": "text-editor"
+}, {
+    "class": "fa-align-right",
+    "label": "Пример align-right",
+    "category": "text-editor"
+}, {
+    "class": "fa-bold",
+    "label": "Пример bold",
+    "category": "text-editor"
+}, {
+    "class": "fa-chain",
+    "label": "Пример chain (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-chain-broken",
+    "label": "Пример chain-broken",
+    "category": "text-editor"
+}, {
+    "class": "fa-clipboard",
+    "label": "Пример clipboard",
+    "category": "text-editor"
+}, {
+    "class": "fa-columns",
+    "label": "Пример columns",
+    "category": "text-editor"
+}, {
+    "class": "fa-copy",
+    "label": "Пример copy (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-cut",
+    "label": "Пример cut (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-dedent",
+    "label": "Пример dedent (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-eraser",
+    "label": "Пример eraser",
+    "category": "text-editor"
+}, {
+    "class": "fa-file",
+    "label": "Пример file",
+    "category": "text-editor"
+}, {
+    "class": "fa-file-o",
+    "label": "Пример file-o",
+    "category": "text-editor"
+}, {
+    "class": "fa-file-text",
+    "label": "Пример file-text",
+    "category": "text-editor"
+}, {
+    "class": "fa-file-text-o",
+    "label": "Пример file-text-o",
+    "category": "text-editor"
+}, {
+    "class": "fa-files-o",
+    "label": "Пример files-o",
+    "category": "text-editor"
+}, {
+    "class": "fa-floppy-o",
+    "label": "Пример floppy-o",
+    "category": "text-editor"
+}, {
+    "class": "fa-font",
+    "label": "Пример font",
+    "category": "text-editor"
+}, {
+    "class": "fa-header",
+    "label": "Пример header",
+    "category": "text-editor"
+}, {
+    "class": "fa-indent",
+    "label": "Пример indent",
+    "category": "text-editor"
+}, {
+    "class": "fa-italic",
+    "label": "Пример italic",
+    "category": "text-editor"
+}, {
+    "class": "fa-link",
+    "label": "Пример link",
+    "category": "text-editor"
+}, {
+    "class": "fa-list",
+    "label": "Пример list",
+    "category": "text-editor"
+}, {
+    "class": "fa-list-alt",
+    "label": "Пример list-alt",
+    "category": "text-editor"
+}, {
+    "class": "fa-list-ol",
+    "label": "Пример list-ol",
+    "category": "text-editor"
+}, {
+    "class": "fa-list-ul",
+    "label": "Пример list-ul",
+    "category": "text-editor"
+}, {
+    "class": "fa-outdent",
+    "label": "Пример outdent",
+    "category": "text-editor"
+}, {
+    "class": "fa-paperclip",
+    "label": "Пример paperclip",
+    "category": "text-editor"
+}, {
+    "class": "fa-paragraph",
+    "label": "Пример paragraph",
+    "category": "text-editor"
+}, {
+    "class": "fa-paste",
+    "label": "Пример paste (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-repeat",
+    "label": "Пример repeat",
+    "category": "text-editor"
+}, {
+    "class": "fa-rotate-left",
+    "label": "Пример rotate-left (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-rotate-right",
+    "label": "Пример rotate-right (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-save",
+    "label": "Пример save (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-scissors",
+    "label": "Пример scissors",
+    "category": "text-editor"
+}, {
+    "class": "fa-strikethrough",
+    "label": "Пример strikethrough",
+    "category": "text-editor"
+}, {
+    "class": "fa-subscript",
+    "label": "Пример subscript",
+    "category": "text-editor"
+}, {
+    "class": "fa-superscript",
+    "label": "Пример superscript",
+    "category": "text-editor"
+}, {
+    "class": "fa-table",
+    "label": "Пример table",
+    "category": "text-editor"
+}, {
+    "class": "fa-text-height",
+    "label": "Пример text-height",
+    "category": "text-editor"
+}, {
+    "class": "fa-text-width",
+    "label": "Пример text-width",
+    "category": "text-editor"
+}, {
+    "class": "fa-th",
+    "label": "Пример th",
+    "category": "text-editor"
+}, {
+    "class": "fa-th-large",
+    "label": "Пример th-large",
+    "category": "text-editor"
+}, {
+    "class": "fa-th-list",
+    "label": "Пример th-list",
+    "category": "text-editor"
+}, {
+    "class": "fa-underline",
+    "label": "Пример underline",
+    "category": "text-editor"
+}, {
+    "class": "fa-undo",
+    "label": "Пример undo",
+    "category": "text-editor"
+}, {
+    "class": "fa-unlink",
+    "label": "Пример unlink (синоним)",
+    "category": "text-editor"
+}, {
+    "class": "fa-angle-double-down",
+    "label": "Пример angle-double-down",
+    "category": "directional"
+}, {
+    "class": "fa-angle-double-left",
+    "label": "Пример angle-double-left",
+    "category": "directional"
+}, {
+    "class": "fa-angle-double-right",
+    "label": "Пример angle-double-right",
+    "category": "directional"
+}, {
+    "class": "fa-angle-double-up",
+    "label": "Пример angle-double-up",
+    "category": "directional"
+}, {
+    "class": "fa-angle-down",
+    "label": "Пример angle-down",
+    "category": "directional"
+}, {
+    "class": "fa-angle-left",
+    "label": "Пример angle-left",
+    "category": "directional"
+}, {
+    "class": "fa-angle-right",
+    "label": "Пример angle-right",
+    "category": "directional"
+}, {
+    "class": "fa-angle-up",
+    "label": "Пример angle-up",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-circle-down",
+    "label": "Пример arrow-circle-down",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-circle-left",
+    "label": "Пример arrow-circle-left",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-circle-o-down",
+    "label": "Пример arrow-circle-o-down",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-circle-o-left",
+    "label": "Пример arrow-circle-o-left",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-circle-o-right",
+    "label": "Пример arrow-circle-o-right",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-circle-o-up",
+    "label": "Пример arrow-circle-o-up",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-circle-right",
+    "label": "Пример arrow-circle-right",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-circle-up",
+    "label": "Пример arrow-circle-up",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-down",
+    "label": "Пример arrow-down",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-left",
+    "label": "Пример arrow-left",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-right",
+    "label": "Пример arrow-right",
+    "category": "directional"
+}, {
+    "class": "fa-arrow-up",
+    "label": "Пример arrow-up",
+    "category": "directional"
+}, {
+    "class": "fa-arrows",
+    "label": "Пример arrows",
+    "category": "directional"
+}, {
+    "class": "fa-arrows-alt",
+    "label": "Пример arrows-alt",
+    "category": "directional"
+}, {
+    "class": "fa-arrows-h",
+    "label": "Пример arrows-h",
+    "category": "directional"
+}, {
+    "class": "fa-arrows-v",
+    "label": "Пример arrows-v",
+    "category": "directional"
+}, {
+    "class": "fa-caret-down",
+    "label": "Пример caret-down",
+    "category": "directional"
+}, {
+    "class": "fa-caret-left",
+    "label": "Пример caret-left",
+    "category": "directional"
+}, {
+    "class": "fa-caret-right",
+    "label": "Пример caret-right",
+    "category": "directional"
+}, {
+    "class": "fa-caret-square-o-down",
+    "label": "Пример caret-square-o-down",
+    "category": "directional"
+}, {
+    "class": "fa-caret-square-o-left",
+    "label": "Пример caret-square-o-left",
+    "category": "directional"
+}, {
+    "class": "fa-caret-square-o-right",
+    "label": "Пример caret-square-o-right",
+    "category": "directional"
+}, {
+    "class": "fa-caret-square-o-up",
+    "label": "Пример caret-square-o-up",
+    "category": "directional"
+}, {
+    "class": "fa-caret-up",
+    "label": "Пример caret-up",
+    "category": "directional"
+}, {
+    "class": "fa-chevron-circle-down",
+    "label": "Пример chevron-circle-down",
+    "category": "directional"
+}, {
+    "class": "fa-chevron-circle-left",
+    "label": "Пример chevron-circle-left",
+    "category": "directional"
+}, {
+    "class": "fa-chevron-circle-right",
+    "label": "Пример chevron-circle-right",
+    "category": "directional"
+}, {
+    "class": "fa-chevron-circle-up",
+    "label": "Пример chevron-circle-up",
+    "category": "directional"
+}, {
+    "class": "fa-chevron-down",
+    "label": "Пример chevron-down",
+    "category": "directional"
+}, {
+    "class": "fa-chevron-left",
+    "label": "Пример chevron-left",
+    "category": "directional"
+}, {
+    "class": "fa-chevron-right",
+    "label": "Пример chevron-right",
+    "category": "directional"
+}, {
+    "class": "fa-chevron-up",
+    "label": "Пример chevron-up",
+    "category": "directional"
+}, {
+    "class": "fa-exchange",
+    "label": "Пример exchange",
+    "category": "directional"
+}, {
+    "class": "fa-hand-o-down",
+    "label": "Пример hand-o-down",
+    "category": "directional"
+}, {
+    "class": "fa-hand-o-left",
+    "label": "Пример hand-o-left",
+    "category": "directional"
+}, {
+    "class": "fa-hand-o-right",
+    "label": "Пример hand-o-right",
+    "category": "directional"
+}, {
+    "class": "fa-hand-o-up",
+    "label": "Пример hand-o-up",
+    "category": "directional"
+}, {
+    "class": "fa-long-arrow-down",
+    "label": "Пример long-arrow-down",
+    "category": "directional"
+}, {
+    "class": "fa-long-arrow-left",
+    "label": "Пример long-arrow-left",
+    "category": "directional"
+}, {
+    "class": "fa-long-arrow-right",
+    "label": "Пример long-arrow-right",
+    "category": "directional"
+}, {
+    "class": "fa-long-arrow-up",
+    "label": "Пример long-arrow-up",
+    "category": "directional"
+}, {
+    "class": "fa-toggle-down",
+    "label": "Пример toggle-down (синоним)",
+    "category": "directional"
+}, {
+    "class": "fa-toggle-left",
+    "label": "Пример toggle-left (синоним)",
+    "category": "directional"
+}, {
+    "class": "fa-toggle-right",
+    "label": "Пример toggle-right (синоним)",
+    "category": "directional"
+}, {
+    "class": "fa-toggle-up",
+    "label": "Пример toggle-up (синоним)",
+    "category": "directional"
+}, {
+    "class": "fa-arrows-alt",
+    "label": "Пример arrows-alt",
+    "category": "video-player"
+}, {
+    "class": "fa-backward",
+    "label": "Пример backward",
+    "category": "video-player"
+}, {
+    "class": "fa-compress",
+    "label": "Пример compress",
+    "category": "video-player"
+}, {
+    "class": "fa-eject",
+    "label": "Пример eject",
+    "category": "video-player"
+}, {
+    "class": "fa-expand",
+    "label": "Пример expand",
+    "category": "video-player"
+}, {
+    "class": "fa-fast-backward",
+    "label": "Пример fast-backward",
+    "category": "video-player"
+}, {
+    "class": "fa-fast-forward",
+    "label": "Пример fast-forward",
+    "category": "video-player"
+}, {
+    "class": "fa-forward",
+    "label": "Пример forward",
+    "category": "video-player"
+}, {
+    "class": "fa-pause",
+    "label": "Пример pause",
+    "category": "video-player"
+}, {
+    "class": "fa-pause-circle",
+    "label": "Пример pause-circle",
+    "category": "video-player"
+}, {
+    "class": "fa-pause-circle-o",
+    "label": "Пример pause-circle-o",
+    "category": "video-player"
+}, {
+    "class": "fa-play",
+    "label": "Пример play",
+    "category": "video-player"
+}, {
+    "class": "fa-play-circle",
+    "label": "Пример play-circle",
+    "category": "video-player"
+}, {
+    "class": "fa-play-circle-o",
+    "label": "Пример play-circle-o",
+    "category": "video-player"
+}, {
+    "class": "fa-random",
+    "label": "Пример random",
+    "category": "video-player"
+}, {
+    "class": "fa-step-backward",
+    "label": "Пример step-backward",
+    "category": "video-player"
+}, {
+    "class": "fa-step-forward",
+    "label": "Пример step-forward",
+    "category": "video-player"
+}, {
+    "class": "fa-stop",
+    "label": "Пример stop",
+    "category": "video-player"
+}, {
+    "class": "fa-stop-circle",
+    "label": "Пример stop-circle",
+    "category": "video-player"
+}, {
+    "class": "fa-stop-circle-o",
+    "label": "Пример stop-circle-o",
+    "category": "video-player"
+}, {
+    "class": "fa-youtube-play",
+    "label": "Пример youtube-play",
+    "category": "video-player"
+}, {
+    "class": "fa-500px",
+    "label": "Пример 500px",
+    "category": "brand"
+}, {
+    "class": "fa-adn",
+    "label": "Пример adn",
+    "category": "brand"
+}, {
+    "class": "fa-amazon",
+    "label": "Пример amazon",
+    "category": "brand"
+}, {
+    "class": "fa-android",
+    "label": "Пример android",
+    "category": "brand"
+}, {
+    "class": "fa-angellist",
+    "label": "Пример angellist",
+    "category": "brand"
+}, {
+    "class": "fa-apple",
+    "label": "Пример apple",
+    "category": "brand"
+}, {
+    "class": "fa-bandcamp",
+    "label": "Пример bandcamp",
+    "category": "brand"
+}, {
+    "class": "fa-behance",
+    "label": "Пример behance",
+    "category": "brand"
+}, {
+    "class": "fa-behance-square",
+    "label": "Пример behance-square",
+    "category": "brand"
+}, {
+    "class": "fa-bitbucket",
+    "label": "Пример bitbucket",
+    "category": "brand"
+}, {
+    "class": "fa-bitbucket-square",
+    "label": "Пример bitbucket-square",
+    "category": "brand"
+}, {
+    "class": "fa-bitcoin",
+    "label": "Пример bitcoin (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-black-tie",
+    "label": "Пример black-tie",
+    "category": "brand"
+}, {
+    "class": "fa-bluetooth",
+    "label": "Пример bluetooth",
+    "category": "brand"
+}, {
+    "class": "fa-bluetooth-b",
+    "label": "Пример bluetooth-b",
+    "category": "brand"
+}, {
+    "class": "fa-btc",
+    "label": "Пример btc",
+    "category": "brand"
+}, {
+    "class": "fa-buysellads",
+    "label": "Пример buysellads",
+    "category": "brand"
+}, {
+    "class": "fa-cc-amex",
+    "label": "Пример cc-amex",
+    "category": "brand"
+}, {
+    "class": "fa-cc-diners-club",
+    "label": "Пример cc-diners-club",
+    "category": "brand"
+}, {
+    "class": "fa-cc-discover",
+    "label": "Пример cc-discover",
+    "category": "brand"
+}, {
+    "class": "fa-cc-jcb",
+    "label": "Пример cc-jcb",
+    "category": "brand"
+}, {
+    "class": "fa-cc-mastercard",
+    "label": "Пример cc-mastercard",
+    "category": "brand"
+}, {
+    "class": "fa-cc-paypal",
+    "label": "Пример cc-paypal",
+    "category": "brand"
+}, {
+    "class": "fa-cc-stripe",
+    "label": "Пример cc-stripe",
+    "category": "brand"
+}, {
+    "class": "fa-cc-visa",
+    "label": "Пример cc-visa",
+    "category": "brand"
+}, {
+    "class": "fa-chrome",
+    "label": "Пример chrome",
+    "category": "brand"
+}, {
+    "class": "fa-codepen",
+    "label": "Пример codepen",
+    "category": "brand"
+}, {
+    "class": "fa-codiepie",
+    "label": "Пример codiepie",
+    "category": "brand"
+}, {
+    "class": "fa-connectdevelop",
+    "label": "Пример connectdevelop",
+    "category": "brand"
+}, {
+    "class": "fa-contao",
+    "label": "Пример contao",
+    "category": "brand"
+}, {
+    "class": "fa-css3",
+    "label": "Пример css3",
+    "category": "brand"
+}, {
+    "class": "fa-dashcube",
+    "label": "Пример dashcube",
+    "category": "brand"
+}, {
+    "class": "fa-delicious",
+    "label": "Пример delicious",
+    "category": "brand"
+}, {
+    "class": "fa-deviantart",
+    "label": "Пример deviantart",
+    "category": "brand"
+}, {
+    "class": "fa-digg",
+    "label": "Пример digg",
+    "category": "brand"
+}, {
+    "class": "fa-dribbble",
+    "label": "Пример dribbble",
+    "category": "brand"
+}, {
+    "class": "fa-dropbox",
+    "label": "Пример dropbox",
+    "category": "brand"
+}, {
+    "class": "fa-drupal",
+    "label": "Пример drupal",
+    "category": "brand"
+}, {
+    "class": "fa-edge",
+    "label": "Пример edge",
+    "category": "brand"
+}, {
+    "class": "fa-eercast",
+    "label": "Пример eercast",
+    "category": "brand"
+}, {
+    "class": "fa-empire",
+    "label": "Пример empire",
+    "category": "brand"
+}, {
+    "class": "fa-envira",
+    "label": "Пример envira",
+    "category": "brand"
+}, {
+    "class": "fa-etsy",
+    "label": "Пример etsy",
+    "category": "brand"
+}, {
+    "class": "fa-expeditedssl",
+    "label": "Пример expeditedssl",
+    "category": "brand"
+}, {
+    "class": "fa-fa",
+    "label": "Пример fa (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-facebook",
+    "label": "Пример facebook",
+    "category": "brand"
+}, {
+    "class": "fa-facebook-f",
+    "label": "Пример facebook-f (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-facebook-official",
+    "label": "Пример facebook-official",
+    "category": "brand"
+}, {
+    "class": "fa-facebook-square",
+    "label": "Пример facebook-square",
+    "category": "brand"
+}, {
+    "class": "fa-firefox",
+    "label": "Пример firefox",
+    "category": "brand"
+}, {
+    "class": "fa-first-order",
+    "label": "Пример first-order",
+    "category": "brand"
+}, {
+    "class": "fa-flickr",
+    "label": "Пример flickr",
+    "category": "brand"
+}, {
+    "class": "fa-font-awesome",
+    "label": "Пример font-awesome",
+    "category": "brand"
+}, {
+    "class": "fa-fonticons",
+    "label": "Пример fonticons",
+    "category": "brand"
+}, {
+    "class": "fa-fort-awesome",
+    "label": "Пример fort-awesome",
+    "category": "brand"
+}, {
+    "class": "fa-forumbee",
+    "label": "Пример forumbee",
+    "category": "brand"
+}, {
+    "class": "fa-foursquare",
+    "label": "Пример foursquare",
+    "category": "brand"
+}, {
+    "class": "fa-free-code-camp",
+    "label": "Пример free-code-camp",
+    "category": "brand"
+}, {
+    "class": "fa-ge",
+    "label": "Пример ge (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-get-pocket",
+    "label": "Пример get-pocket",
+    "category": "brand"
+}, {
+    "class": "fa-gg",
+    "label": "Пример gg",
+    "category": "brand"
+}, {
+    "class": "fa-gg-circle",
+    "label": "Пример gg-circle",
+    "category": "brand"
+}, {
+    "class": "fa-git",
+    "label": "Пример git",
+    "category": "brand"
+}, {
+    "class": "fa-git-square",
+    "label": "Пример git-square",
+    "category": "brand"
+}, {
+    "class": "fa-github",
+    "label": "Пример github",
+    "category": "brand"
+}, {
+    "class": "fa-github-alt",
+    "label": "Пример github-alt",
+    "category": "brand"
+}, {
+    "class": "fa-github-square",
+    "label": "Пример github-square",
+    "category": "brand"
+}, {
+    "class": "fa-gitlab",
+    "label": "Пример gitlab",
+    "category": "brand"
+}, {
+    "class": "fa-gittip",
+    "label": "Пример gittip (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-glide",
+    "label": "Пример glide",
+    "category": "brand"
+}, {
+    "class": "fa-glide-g",
+    "label": "Пример glide-g",
+    "category": "brand"
+}, {
+    "class": "fa-google",
+    "label": "Пример google",
+    "category": "brand"
+}, {
+    "class": "fa-google-plus",
+    "label": "Пример google-plus",
+    "category": "brand"
+}, {
+    "class": "fa-google-plus-circle",
+    "label": "Пример google-plus-circle (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-google-plus-official",
+    "label": "Пример google-plus-official",
+    "category": "brand"
+}, {
+    "class": "fa-google-plus-square",
+    "label": "Пример google-plus-square",
+    "category": "brand"
+}, {
+    "class": "fa-google-wallet",
+    "label": "Пример google-wallet",
+    "category": "brand"
+}, {
+    "class": "fa-gratipay",
+    "label": "Пример gratipay",
+    "category": "brand"
+}, {
+    "class": "fa-grav",
+    "label": "Пример grav",
+    "category": "brand"
+}, {
+    "class": "fa-hacker-news",
+    "label": "Пример hacker-news",
+    "category": "brand"
+}, {
+    "class": "fa-houzz",
+    "label": "Пример houzz",
+    "category": "brand"
+}, {
+    "class": "fa-html5",
+    "label": "Пример html5",
+    "category": "brand"
+}, {
+    "class": "fa-imdb",
+    "label": "Пример imdb",
+    "category": "brand"
+}, {
+    "class": "fa-instagram",
+    "label": "Пример instagram",
+    "category": "brand"
+}, {
+    "class": "fa-internet-explorer",
+    "label": "Пример internet-explorer",
+    "category": "brand"
+}, {
+    "class": "fa-ioxhost",
+    "label": "Пример ioxhost",
+    "category": "brand"
+}, {
+    "class": "fa-joomla",
+    "label": "Пример joomla",
+    "category": "brand"
+}, {
+    "class": "fa-jsfiddle",
+    "label": "Пример jsfiddle",
+    "category": "brand"
+}, {
+    "class": "fa-lastfm",
+    "label": "Пример lastfm",
+    "category": "brand"
+}, {
+    "class": "fa-lastfm-square",
+    "label": "Пример lastfm-square",
+    "category": "brand"
+}, {
+    "class": "fa-leanpub",
+    "label": "Пример leanpub",
+    "category": "brand"
+}, {
+    "class": "fa-linkedin",
+    "label": "Пример linkedin",
+    "category": "brand"
+}, {
+    "class": "fa-linkedin-square",
+    "label": "Пример linkedin-square",
+    "category": "brand"
+}, {
+    "class": "fa-linode",
+    "label": "Пример linode",
+    "category": "brand"
+}, {
+    "class": "fa-linux",
+    "label": "Пример linux",
+    "category": "brand"
+}, {
+    "class": "fa-maxcdn",
+    "label": "Пример maxcdn",
+    "category": "brand"
+}, {
+    "class": "fa-meanpath",
+    "label": "Пример meanpath",
+    "category": "brand"
+}, {
+    "class": "fa-medium",
+    "label": "Пример medium",
+    "category": "brand"
+}, {
+    "class": "fa-meetup",
+    "label": "Пример meetup",
+    "category": "brand"
+}, {
+    "class": "fa-mixcloud",
+    "label": "Пример mixcloud",
+    "category": "brand"
+}, {
+    "class": "fa-modx",
+    "label": "Пример modx",
+    "category": "brand"
+}, {
+    "class": "fa-odnoklassniki",
+    "label": "Пример odnoklassniki",
+    "category": "brand"
+}, {
+    "class": "fa-odnoklassniki-square",
+    "label": "Пример odnoklassniki-square",
+    "category": "brand"
+}, {
+    "class": "fa-opencart",
+    "label": "Пример opencart",
+    "category": "brand"
+}, {
+    "class": "fa-openid",
+    "label": "Пример openid",
+    "category": "brand"
+}, {
+    "class": "fa-opera",
+    "label": "Пример opera",
+    "category": "brand"
+}, {
+    "class": "fa-optin-monster",
+    "label": "Пример optin-monster",
+    "category": "brand"
+}, {
+    "class": "fa-pagelines",
+    "label": "Пример pagelines",
+    "category": "brand"
+}, {
+    "class": "fa-paypal",
+    "label": "Пример paypal",
+    "category": "brand"
+}, {
+    "class": "fa-pied-piper",
+    "label": "Пример pied-piper",
+    "category": "brand"
+}, {
+    "class": "fa-pied-piper-alt",
+    "label": "Пример pied-piper-alt",
+    "category": "brand"
+}, {
+    "class": "fa-pied-piper-pp",
+    "label": "Пример pied-piper-pp",
+    "category": "brand"
+}, {
+    "class": "fa-pinterest",
+    "label": "Пример pinterest",
+    "category": "brand"
+}, {
+    "class": "fa-pinterest-p",
+    "label": "Пример pinterest-p",
+    "category": "brand"
+}, {
+    "class": "fa-pinterest-square",
+    "label": "Пример pinterest-square",
+    "category": "brand"
+}, {
+    "class": "fa-product-hunt",
+    "label": "Пример product-hunt",
+    "category": "brand"
+}, {
+    "class": "fa-qq",
+    "label": "Пример qq",
+    "category": "brand"
+}, {
+    "class": "fa-quora",
+    "label": "Пример quora",
+    "category": "brand"
+}, {
+    "class": "fa-ra",
+    "label": "Пример ra (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-ravelry",
+    "label": "Пример ravelry",
+    "category": "brand"
+}, {
+    "class": "fa-rebel",
+    "label": "Пример rebel",
+    "category": "brand"
+}, {
+    "class": "fa-reddit",
+    "label": "Пример reddit",
+    "category": "brand"
+}, {
+    "class": "fa-reddit-alien",
+    "label": "Пример reddit-alien",
+    "category": "brand"
+}, {
+    "class": "fa-reddit-square",
+    "label": "Пример reddit-square",
+    "category": "brand"
+}, {
+    "class": "fa-renren",
+    "label": "Пример renren",
+    "category": "brand"
+}, {
+    "class": "fa-resistance",
+    "label": "Пример resistance (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-safari",
+    "label": "Пример safari",
+    "category": "brand"
+}, {
+    "class": "fa-scribd",
+    "label": "Пример scribd",
+    "category": "brand"
+}, {
+    "class": "fa-sellsy",
+    "label": "Пример sellsy",
+    "category": "brand"
+}, {
+    "class": "fa-share-alt",
+    "label": "Пример share-alt",
+    "category": "brand"
+}, {
+    "class": "fa-share-alt-square",
+    "label": "Пример share-alt-square",
+    "category": "brand"
+}, {
+    "class": "fa-shirtsinbulk",
+    "label": "Пример shirtsinbulk",
+    "category": "brand"
+}, {
+    "class": "fa-simplybuilt",
+    "label": "Пример simplybuilt",
+    "category": "brand"
+}, {
+    "class": "fa-skyatlas",
+    "label": "Пример skyatlas",
+    "category": "brand"
+}, {
+    "class": "fa-skype",
+    "label": "Пример skype",
+    "category": "brand"
+}, {
+    "class": "fa-slack",
+    "label": "Пример slack",
+    "category": "brand"
+}, {
+    "class": "fa-slideshare",
+    "label": "Пример slideshare",
+    "category": "brand"
+}, {
+    "class": "fa-snapchat",
+    "label": "Пример snapchat",
+    "category": "brand"
+}, {
+    "class": "fa-snapchat-ghost",
+    "label": "Пример snapchat-ghost",
+    "category": "brand"
+}, {
+    "class": "fa-snapchat-square",
+    "label": "Пример snapchat-square",
+    "category": "brand"
+}, {
+    "class": "fa-soundcloud",
+    "label": "Пример soundcloud",
+    "category": "brand"
+}, {
+    "class": "fa-spotify",
+    "label": "Пример spotify",
+    "category": "brand"
+}, {
+    "class": "fa-stack-exchange",
+    "label": "Пример stack-exchange",
+    "category": "brand"
+}, {
+    "class": "fa-stack-overflow",
+    "label": "Пример stack-overflow",
+    "category": "brand"
+}, {
+    "class": "fa-steam",
+    "label": "Пример steam",
+    "category": "brand"
+}, {
+    "class": "fa-steam-square",
+    "label": "Пример steam-square",
+    "category": "brand"
+}, {
+    "class": "fa-stumbleupon",
+    "label": "Пример stumbleupon",
+    "category": "brand"
+}, {
+    "class": "fa-stumbleupon-circle",
+    "label": "Пример stumbleupon-circle",
+    "category": "brand"
+}, {
+    "class": "fa-superpowers",
+    "label": "Пример superpowers",
+    "category": "brand"
+}, {
+    "class": "fa-telegram",
+    "label": "Пример telegram",
+    "category": "brand"
+}, {
+    "class": "fa-tencent-weibo",
+    "label": "Пример tencent-weibo",
+    "category": "brand"
+}, {
+    "class": "fa-themeisle",
+    "label": "Пример themeisle",
+    "category": "brand"
+}, {
+    "class": "fa-trello",
+    "label": "Пример trello",
+    "category": "brand"
+}, {
+    "class": "fa-tripadvisor",
+    "label": "Пример tripadvisor",
+    "category": "brand"
+}, {
+    "class": "fa-tumblr",
+    "label": "Пример tumblr",
+    "category": "brand"
+}, {
+    "class": "fa-tumblr-square",
+    "label": "Пример tumblr-square",
+    "category": "brand"
+}, {
+    "class": "fa-twitch",
+    "label": "Пример twitch",
+    "category": "brand"
+}, {
+    "class": "fa-twitter",
+    "label": "Пример twitter",
+    "category": "brand"
+}, {
+    "class": "fa-twitter-square",
+    "label": "Пример twitter-square",
+    "category": "brand"
+}, {
+    "class": "fa-usb",
+    "label": "Пример usb",
+    "category": "brand"
+}, {
+    "class": "fa-viacoin",
+    "label": "Пример viacoin",
+    "category": "brand"
+}, {
+    "class": "fa-viadeo",
+    "label": "Пример viadeo",
+    "category": "brand"
+}, {
+    "class": "fa-viadeo-square",
+    "label": "Пример viadeo-square",
+    "category": "brand"
+}, {
+    "class": "fa-vimeo",
+    "label": "Пример vimeo",
+    "category": "brand"
+}, {
+    "class": "fa-vimeo-square",
+    "label": "Пример vimeo-square",
+    "category": "brand"
+}, {
+    "class": "fa-vine",
+    "label": "Пример vine",
+    "category": "brand"
+}, {
+    "class": "fa-vk",
+    "label": "Пример vk",
+    "category": "brand"
+}, {
+    "class": "fa-wechat",
+    "label": "Пример wechat (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-weibo",
+    "label": "Пример weibo",
+    "category": "brand"
+}, {
+    "class": "fa-weixin",
+    "label": "Пример weixin",
+    "category": "brand"
+}, {
+    "class": "fa-whatsapp",
+    "label": "Пример whatsapp",
+    "category": "brand"
+}, {
+    "class": "fa-wikipedia-w",
+    "label": "Пример wikipedia-w",
+    "category": "brand"
+}, {
+    "class": "fa-windows",
+    "label": "Пример windows",
+    "category": "brand"
+}, {
+    "class": "fa-wordpress",
+    "label": "Пример wordpress",
+    "category": "brand"
+}, {
+    "class": "fa-wpbeginner",
+    "label": "Пример wpbeginner",
+    "category": "brand"
+}, {
+    "class": "fa-wpexplorer",
+    "label": "Пример wpexplorer",
+    "category": "brand"
+}, {
+    "class": "fa-wpforms",
+    "label": "Пример wpforms",
+    "category": "brand"
+}, {
+    "class": "fa-xing",
+    "label": "Пример xing",
+    "category": "brand"
+}, {
+    "class": "fa-xing-square",
+    "label": "Пример xing-square",
+    "category": "brand"
+}, {
+    "class": "fa-y-combinator",
+    "label": "Пример y-combinator",
+    "category": "brand"
+}, {
+    "class": "fa-y-combinator-square",
+    "label": "Пример y-combinator-square (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-yahoo",
+    "label": "Пример yahoo",
+    "category": "brand"
+}, {
+    "class": "fa-yc",
+    "label": "Пример yc (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-yc-square",
+    "label": "Пример yc-square (синоним)",
+    "category": "brand"
+}, {
+    "class": "fa-yelp",
+    "label": "Пример yelp",
+    "category": "brand"
+}, {
+    "class": "fa-yoast",
+    "label": "Пример yoast",
+    "category": "brand"
+}, {
+    "class": "fa-youtube",
+    "label": "Пример youtube",
+    "category": "brand"
+}, {
+    "class": "fa-youtube-play",
+    "label": "Пример youtube-play",
+    "category": "brand"
+}, {
+    "class": "fa-youtube-square",
+    "label": "Пример youtube-square",
+    "category": "brand"
+}, {
+    "class": "fa-ambulance",
+    "label": "Пример ambulance",
+    "category": "medical"
+}, {
+    "class": "fa-h-square",
+    "label": "Пример h-square",
+    "category": "medical"
+}, {
+    "class": "fa-heart",
+    "label": "Пример heart",
+    "category": "medical"
+}, {
+    "class": "fa-heart-o",
+    "label": "Пример heart-o",
+    "category": "medical"
+}, {
+    "class": "fa-heartbeat",
+    "label": "Пример heartbeat",
+    "category": "medical"
+}, {
+    "class": "fa-hospital-o",
+    "label": "Пример hospital-o",
+    "category": "medical"
+}, {
+    "class": "fa-medkit",
+    "label": "Пример medkit",
+    "category": "medical"
+}, {
+    "class": "fa-plus-square",
+    "label": "Пример plus-square",
+    "category": "medical"
+}, {
+    "class": "fa-stethoscope",
+    "label": "Пример stethoscope",
+    "category": "medical"
+}, {
+    "class": "fa-user-md",
+    "label": "Пример user-md",
+    "category": "medical"
+}, {
+    "class": "fa-wheelchair",
+    "label": "Пример wheelchair",
+    "category": "medical"
+}, {
+    "class": "fa-wheelchair-alt",
+    "label": "Пример wheelchair-alt",
+    "category": "medical"
+}]
